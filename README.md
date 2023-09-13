@@ -19,7 +19,7 @@
 
 - **Project objective:** 
 
-    **+>** Create a _[Finance Reports](https://github.com/Devesh252/Sales-Analytics-Report/blob/main/Finance%20report.pdf)_
+    **=>** Create a _[Finance Reports](https://github.com/Devesh252/Sales-Analytics-Report/blob/main/Finance%20report.pdf)_
 
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
