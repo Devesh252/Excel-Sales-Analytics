@@ -5,20 +5,8 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[Customer Netsales Performance report](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/Customer%20Netsales%20Performance.pdf)_ 
+    **=>** Create a _[Sales Reports](https://github.com/Devesh252/Sales-Analytics-Report/blob/main/Sales%20report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market Netsale performance vs target](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/Market%20Netsale%20performance%20vs%20target.pdf)_
-
-    **3.** Create a _[Netsale by Division level Report](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/Netsale%20by%20Division%20Level%20Report.pdf)_
-
-    **4.** Create a _[New Product 2021](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/New%20Product%202021.pdf)_
-
-    **5.** Create a _[Top 10 sale Products](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/Top%2010%20sale%20Products.pdf)_
-
-    **6.** Create a _[Top 5 & Bottom 5 Product sale](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/Top%205%20%26%20Bottom%205%20Product%20sale.pdf)_
-
-    **7.** Create a _[Top 5 Netsale by Country in 2021](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/Top%205%20Netsale%20by%20Country%20in%202021.pdf)_
-    
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -31,13 +19,8 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[P&L by Fiscal Year](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)_
+    **+>** Create a _[Finance Reports](https://github.com/Devesh252/Sales-Analytics-Report/blob/main/Finance%20report.pdf)_
 
-    **2.** Create Profit and Loss (P&L) by Fiscal Year reports by _[P&L Month](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/P%26L%20Month.pdf)_
-
-    **3.** Create Profit and Loss (P&L) reports by _[P&L for each Country](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/P%26L%20for%20each%20Country.pdf)
-
-    **4.** Create Gross Margin % reports by _[Gross Margin% by Quaters(Sub_Zone)](https://github.com/Devesh252/Excel-Sales-Analytics/blob/main/Gross%20Margin%25%20by%20Quaters(Sub_Zone).pdf)__
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
